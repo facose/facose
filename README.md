@@ -1,6 +1,12 @@
+## This is me:
+
 ![ME XD](tenor.gif)
 
-## Hi there, I am Fabian, your new loopbreaker, and sometimes look just like this fellah 😆
+## This xD:
+
+# Name: Fabian
+# Profession: Loopbreaker
+# Appearance: Just like the furry fellah above 😆
 
 - 🔭 I’m currently working on my personal project "MusikApp"
 - 🌱 I’m constantly learning new technologies based on JS (Loving Codecademy)
