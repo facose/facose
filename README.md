@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ Alt text](tenor.gif) / ! [](tenor.gif)
+![ Alt text](tenor.gif) ![](tenor.gif)
 <!--
 **facose/facose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
