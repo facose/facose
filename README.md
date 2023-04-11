@@ -10,7 +10,17 @@
 
 #### 4 things about me:
 
-- 🔭 I’m currently working on my personal project "MusikApp" https://github.com/MusikApp/developing_phase
-- 🌱 I’m constantly learning new technologies based on JS (Loving Codecademy)
+- 🔭 I’m currently working on my personal React-Native x Firebase project "QroBazar"
+- 🌱 I’m constantly learning new technologies (Loving Codecademy)
 - 💬 Ask me about anything you like, I love convos!
 - ⚡ Fun fact: My dog is affraid of my cat 🤔
+
+#### Preferred Technologies:
+
+- RoR
+- AngularJs
+- React
+- React Native
+- Asp.NET
+- Firebase
+- PostgreSQL
