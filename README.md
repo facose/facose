@@ -10,8 +10,8 @@
 
 #### 4 things about me:
 
-- 🔭 I’m currently working on my personal React-Native x Firebase project "QroBazar"
-- 🌱 I’m constantly learning new technologies (Loving Codecademy)
+- 🔭 I’m currently working on my personal Next.js x Vercel project "The Taco Guide"
+- 🌱 I’m constantly learning new technologies
 - 💬 Ask me about anything you like, I love convos!
 - ⚡ Fun fact: My dog is affraid of my cat 🤔
 
@@ -24,3 +24,4 @@
 - Asp.NET
 - Firebase
 - PostgreSQL
+- Next.js
