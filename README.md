@@ -24,4 +24,10 @@
 - Asp.NET
 - Firebase
 - PostgreSQL
-- Next.js
+- NextJs
+- NodeJs
+- Express
+- Redis
+- Kubernetes
+- AWS
+- Docker
