@@ -10,7 +10,8 @@
 
 #### 4 things about me:
 
-- 🔭 I’m currently working on my personal Next.js x Vercel project "The Taco Guide"
+- 🔭 I’m currently working on my personal Node.js x React x AWS project "Alterpay"
+- 🛰️ Attempting to master Ruby on Rails
 - 🌱 I’m constantly learning new technologies
 - 💬 Ask me about anything you like, I love convos!
 - ⚡ Fun fact: My dog is affraid of my cat 🤔
