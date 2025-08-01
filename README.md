@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Profile Banner](https://via.placeholder.com/800x200/0d1117/58a6ff?text=Senior+Full+Stack+Engineer+%7C+SaaS+Architect+%7C+5%2B+Years+Experience)
+
 ### 🚀 Senior Full Stack Engineer | SaaS Architect | 5+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabianconejosegura)
@@ -49,6 +51,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ### **Frontend Development**
@@ -105,78 +108,18 @@
 - Served major clients including Femsa and leading banks
 - Microservices architecture with Docker and AWS SNS/SQS
 
-### 🎓 [Healthcare LMS Platform - First Factory](https://boardvitals.com | https://nursingce.com)
+### 🎓 [Healthcare LMS Platform - First Factory](https://boardvitals.com)
 **Tech:** Ruby on Rails, React, PostgreSQL, AWS, Terraform
 - Enhanced NCE and BoardVitals platforms (1M+ active users)
 - Reduced storefront response time by 50%
 - Improved platform scalability by 15%
 
----
-
-## 🏆 Key Achievements
-
-```javascript
-const achievements = {
-  experience: "5+ years",
-  usersServed: "2M+",
-  performanceImprovement: "50%",
-  teamGrowth: "40 → 200+ developers",
-  paymentSystemOptimization: "10% failure reduction",
-  platformScaling: "15% increase in concurrent users"
-};
-```
-
-## 🎓 Education & Certifications
-
-- 🎓 **Software and Networks Engineering** - Universidad del Valle de México (UVM) - *2025*
-- 🚀 **Full Stack Development Bootcamp** - Desafio Latam - *2021*
-- 💻 **Front-End Development Bootcamp** - DEV.F - *2021*
-- 📊 **Digital Marketing Certification** - UAM - *2018*
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-**I'm always interested in discussing new opportunities, especially in:**
-- 🚀 **SaaS Platforms** | 💰 **Fintech Solutions** | 🏥 **Healthcare Tech** | 🌐 **E-commerce**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fabianconejosegura)
-[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail)](mailto:fabianconejosegu@gmail.com)
-
-**📍 Costa Rica | 🌍 Open to Remote Work | 💼 Available for Senior/Lead Roles**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=facose&color=blueviolet&style=for-the-badge" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🏦 [Alterpay - Payment Orchestration Platform](https://alterpay.com.mx)
-**Tech:** Node.js, React, TypeScript, AWS ECS, PostgreSQL, Redis
-- Payment orchestration platform for ISPs serving 10,000+ users
-- Reduced payment failures by 10% and morosity rate by 10%
-- Microservices architecture with Docker and Kubernetes
-- Fiscal invoice integration with Mexican SAT compliance
-
-### 💼 [HR Management Platform - Rankmi](https://rankmi.com)
-**Tech:** Ruby on Rails, React, PostgreSQL, AWS
-- Modular HR platform scaling across LATAM (Mexico, Brazil)
-- Served major clients including Femsa and leading banks
-- Microservices architecture with Docker and AWS SNS/SQS
-
-### 🎓 [Healthcare LMS Platform - First Factory](https://boardvitals.com | https://nursingce.com)
-**Tech:** Ruby on Rails, React, PostgreSQL, AWS, Terraform
-- Enhanced NCE and BoardVitals platforms (1M+ active users)
-- Reduced storefront response time by 50%
-- Improved platform scalability by 15%
+### 🔐 [SmartAuth API - Laravel Authentication](https://github.com/facose/smart-auth-api)
+**Tech:** PHP, Laravel, Laravel Fortify, SQLite
+- RESTful authentication API with JWT tokens
+- Secure user registration, login, and profile management
+- Rate limiting and comprehensive API documentation
+- Built with modern Laravel 12 and best practices
 
 ---
 
