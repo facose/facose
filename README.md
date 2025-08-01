@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](https://via.placeholder.com/800x200/0d1117/58a6ff?text=Senior+Full+Stack+Engineer+%7C+SaaS+Architect+%7C+5%2B+Years+Experience)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=200&section=header&text=Fabian%20Conejo&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer&descAlignY=65&descAlign=50)
 
 ### 🚀 Senior Full Stack Engineer | SaaS Architect | 5+ Years Experience
 
