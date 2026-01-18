@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=200&section=header&text=Fabian%20Conejo&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer&descAlignY=65&descAlign=50)
 
-### 🚀 Senior Full Stack Engineer | SaaS Architect | 5+ Years Experience
+### 🚀 Senior Full Stack Engineer | SaaS Architect | 6+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabianconejosegura)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianconejosegu@gmail.com)
