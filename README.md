@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-**Senior Full Stack Engineer** with 5+ years of experience building scalable SaaS platforms and fintech solutions. Currently leading payment orchestration systems at **Alterpay** and completing my **Software Engineering degree** at UVM Mexico.
+**Senior Full Stack Engineer** with plenty of experience building scalable SaaS platforms and fintech solutions. Currently leading payment orchestration systems at **Alterpay** and completing my **Masters degree in AI** at UVM Mexico.
 
 - 🔭 **Currently working on:** Payment orchestration platform for ISPs (Alterpay)
 - 🌱 **Learning:** Advanced AWS architecture patterns and microservices
