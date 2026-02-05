@@ -95,7 +95,7 @@
 
 ## 🎯 Featured Projects
 
-### 🏦 [Alterpay - Payment Orchestration Platform](https://alterpay.com.mx)
+### 🏦 [Alterpay - Payment Orchestration Platform](https://alterpay.mx)
 **Tech:** Node.js, React, TypeScript, AWS ECS, PostgreSQL, Redis
 - Payment orchestration platform for ISPs serving 10,000+ users
 - Reduced payment failures by 10% and morosity rate by 10%
